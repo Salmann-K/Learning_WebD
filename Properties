@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        back{
+            background-image: url("website photo/img");
+            background-repeat: no-repeat;
+            background-size:25%;
+            background-attachment: fixed;
+            /* to attach image like 
+                we can fix it it will keep going down with scrolling
+                or scrolling for to not let that happen
+            */
+            
+        }
+        /*
+        p{
+            color: #1ee031e9;
+            font-weight: bolder;
+            background-color: #3811d5; 
+            font-family:monospace;
+            font-style: italic;   
+        }
+        */
+
+        /*
+        body{
+             
+            background-color: rgba(237, 28, 70, 0.616);
+            background-image: url("website photo/img.jpg");
+            background-size:400px;
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat:no-repeat;
+        }*/
+
+        /* Font */
 
