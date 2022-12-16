@@ -26,3 +26,19 @@
     </style>
 </head>
 
+<body>
+    <ul>
+        <li>Default <a href="">Link</a> color</li>
+        <li class="class-1">Inherited <a href="">Link</a> color</li>
+        <li class="class-2">Initial <a href="">Link</a> color</li>
+        <li class="class-3">Unset <a href="">Link</a> color</li>
+    </ul>
+
+
+    <!--
+        Important Keyword
+    -->
+
+    <p class="Imp" style="color: red;" >This is red Color</p>
+</body>
+</html>
