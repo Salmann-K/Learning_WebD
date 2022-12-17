@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overflow1</title>
+    <style>
+        .box{
+            border: 2px solid black;
+            width: 200px;
+            height: 100px;
+            /* overflow hidden will hide overflow value
+                overflow scroll will keep the value but we have to scroll to see it
+                if we later change value of width or height scroll will remain
+                to resolve this we use auto 
+            */
+            overflow: hidden;
+            overflow: scroll;
+        }
 
