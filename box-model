@@ -24,3 +24,26 @@
             padding: 30px;
             background-color: blueviolet;
         }
+ a{
+            text-decoration: none;
+            background-color: black;
+            color: azure;
+            text-align: left;
+            padding: 20px;
+            float: left;
+            overflow: hidden;
+            /*
+            to get things out of box model
+            we use float
+            
+            and to remove overflow
+            we use overflow
+            
+            */  
+        }
+        a :hover{
+            color: tomato;
+        }
+        a :visited{
+            color:cadetblue;
+        }
