@@ -47,3 +47,36 @@
         a :visited{
             color:cadetblue;
         }
+   
+    </style>
+</head>
+<body>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum voluptas, deserunt totam repudiandae consequuntur animi eos, corrupti ab labore quibusdam rerum mollitia sunt hic. Ratione voluptatum, ut quibusdam commodi veniam ea quam quia, ipsa, distinctio accusantium aperiam. Perspiciatis reiciendis eaque tempore saepe sunt deleniti suscipit natus? Assumenda ab non corporis repellendus quo excepturi rerum. Vitae similique earum provident necessitatibus modi magni tempore eos eum, voluptatem sequi non fugit dolore quos maxime ratione porro natus velit laborum error eaque aliquam delectus reprehenderit aliquid. Sequi soluta rerum accusamus ab eveniet! Expedita voluptatibus consequuntur, incidunt nisi accusantium minima quaerat, ab aut nulla exercitationem quibusdam quasi suscipit error. Voluptatem, cupiditate officiis? Reprehenderit voluptatem, totam quia libero ipsum doloremque nulla at asperiores voluptas pariatur, corrupti temporibus aperiam vitae? Ad ut eaque minus illum maiores? Aut blanditiis harum cupiditate facere eveniet sequi, nemo obcaecati nihil id rerum dolor temporibus magni? Eveniet placeat exercitationem nisi ea sint nemo! Hic ducimus, reiciendis nostrum harum cumque tempora excepturi rerum consectetur amet unde perspiciatis vitae, voluptatibus quibusdam doloremque aliquid. Odio commodi labore velit quod id esse minus odit est quisquam quas, hic minima dolor voluptatem error voluptates vitae alias modi, et aspernatur ut fugiat quae. Similique hic minima quis alias!
+    </div>
+
+    <!-- Marging vs Padding -->
+
+    <div class="wrapper">
+        <div class="box1">Box1</div>
+        <div class="box2">Box2</div>
+    </div>
+    <a href="https://www.google.com" >Google</a>
+    <!-- To Open In Different Page -->
+    <br>
+    <a href="https://www.google.com" target="_blank">Google</a>
+    <br>
+    <a href="page2.html" > Click</a>
+    <br>
+    <a href="https://drive.google.com/drive/u/0/my-drive" target="_blank"><h2>Notes</h2></a> 
+    <br>
+    <a href="te/Lab manual (PCS302)-1.docx" target="_blank">Lab manual</a>
+    <br>
+    <a href="te/MohdSalman.docx" target="_blank" >Mohd Salman</a>
+    <br>
+    <a href="te/Termwork.docx" target="_blank">Termwork</a>
+    <br>
+    <a href="te/carpenter_pdf.pdf" target="_blank" rel="noopener noreferrer">Carpenter</a>
+    <hr>
+</body>
+</html>
