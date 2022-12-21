@@ -12,3 +12,23 @@
             color: red;
             font-weight: bold;
         }
+  ul#Summer-Drinks li{
+            font-size: 12px;
+            color: black;
+            font-weight: normal;
+        }
+
+        /* if two selector have same specificity then the one below will be used   */
+
+        /* the style attribute will override any other styling in same file or in css sheet*/
+    </style>
+    <title>Specificity</title>
+</head>
+<body>
+    <ul id="Summer-Drinks">
+        <li class="Favourite" style="color: green;">Coke</li>
+        <li>Mountain Dew</li>
+        <li>Sting</li>
+    </ul>
+</body>
+</html>
