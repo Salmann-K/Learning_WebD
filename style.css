@@ -1,1 +1,34 @@
+p{
+    color: green;
+}
+a{
+    color:aqua;
+}
+li{
+    list-style: circle;
+}
 
+/* Class Selector
+.Special{
+    color: blueviolet;
+    font-weight: bold;
+}
+*/
+
+/* To Use A Particular Element of A Class */  
+    h6.Special{
+    color: blueviolet;
+    font-weight: bold;
+    background-color: bisque;
+    padding:5px;
+}
+
+/* Descendent combinator
+to Select an Element inside An Element*/
+/*
+li em{
+    color: crimson;
+    font-style: italic;
+    font-weight: bold;
+}
+*/
