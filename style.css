@@ -60,3 +60,40 @@ a:hover{
 p#one{
     color: blue;
 }
+
+/* Attribute Selector */
+
+li[class]{
+    color: brown;
+    background-color: blanchedalmond;
+    font-size: 200%;
+}
+
+li[class="Special2"]{
+    color:green;
+    background-color: blanchedalmond;
+    font-size: 200%;
+}
+
+/* Everything Selector*/ 
+
+* {
+    list-style: none;
+}
+
+table , tr ,td ,th{
+    border: 2px solid black;
+    /* To Colapse The Borders */
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 5px;
+} 
+th{
+    background-color: burlywood;
+}
+td{
+    background-color: blanchedalmond;
+}
+
+
+ 
