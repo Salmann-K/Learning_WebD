@@ -32,3 +32,31 @@ li em{
     font-weight: bold;
 }
 */
+/* Adjacent Combinator
+    to Select Next Sibling or Slect Adjacent Element
+    if there is somthing in between it not gonna work 
+*/
+
+h4+p{
+    color: darkgoldenrod;
+    font-style: oblique;
+    font-size: large;
+}
+/* pseudo Element Selector
+    to change State  
+*/
+a:hover{
+    color:saddlebrown;
+    text-decoration:double;
+}
+
+/* Id Selector */
+
+#Heading{
+    color: crimson;
+    background-color: black;
+    text-align: center;
+}
+p#one{
+    color: blue;
+}
