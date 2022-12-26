@@ -13,3 +13,13 @@ header h1 {
     color: white;
 }
 
+header {
+    padding: 40px;
+    background-color: rgb(30, 12, 12);
+}
+
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
